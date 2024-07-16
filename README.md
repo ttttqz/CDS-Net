@@ -1,1 +1,1 @@
-#CDS-Net: Contextual Difference Sensitivity Network for Pixel-Wise Road Crack Detection
+CDS-Net: Contextual Difference Sensitivity Network for Pixel-Wise Road Crack Detection
